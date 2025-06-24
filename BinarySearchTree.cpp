@@ -14,3 +14,6 @@ public:
         leftchild = nullptr; /// Initialize left child to null
         rightchild = nullptr; // initialize right child to null
     }
+};
+
+class BinaryTree
